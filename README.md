@@ -9,6 +9,13 @@ privacyEmail=true
 privacyName=true -->
 
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yeslee?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
+<!-- 
+다크모드
+darkmode=true -->
+
+
 <!--
 **yeslee-v/yeslee-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
