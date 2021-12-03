@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm yeslee 예요 👋
+
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yeslee)](https://github.com/JaeSeoKim/badge42)
+
+<!-- 
+이름, 이메일 가리기
+privacyEmail=true
+privacyName=true -->
+
 
 <!--
 **yeslee-v/yeslee-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
