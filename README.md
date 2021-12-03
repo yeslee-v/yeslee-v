@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yeslee)](https://github.com/JaeSeoKim/badge42)
+[![yeslee's 42 stats](https://badge42.herokuapp.com/api/stats/yeslee)](https://github.com/JaeSeoKim/badge42)
 
 <!-- 
 이름, 이메일 가리기
@@ -26,7 +26,7 @@ privacyEmail=true
 privacyName=true -->
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yeslee?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![yeslee's 42 stats](https://badge42.herokuapp.com/api/stats/yeslee?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 <!-- 
 다크모드
