@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=C&logoColor=white&color=A0B0C0&fontColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C++-FFFFFF?style=flat-square&logo=C%2B%2B&logoColor=white&color=00599C"/></a>
 <img src="https://img.shields.io/badge/Makefile-FFFFFF?style=flat-square&logo=CMake&logoColor=white&color=064F8C"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeslee-v&theme=dracula&show_icons=true&layout=compact)](https://github.com/yeslee-v/github-readme-stats)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeslee-v&theme=dracula&show_icons=true)](https://github.com/yeslee-v/github-readme-stats)
