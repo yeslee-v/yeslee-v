@@ -1,31 +1,23 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Yeshin%20Lee%20👋&fontSize=25" width="100%" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Yeshin%20Lee%20👋&fontSize=30" width="100%" />
 
+<div align="center">
 
-<!--
-**yeslee-v/yeslee-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeslee5004@gmail.com)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yeslee-v)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeshinlee/)
 
-Here are some ideas to get you started:
--->
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning in **42Seoul**. -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me anything by email. -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: -->
-<!-- - ⚡ Fun fact: I'm a Ravenclaw from Hogwart 🪄 -->
+  ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white")
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeslee-v%2F&count_bg=%230D76F6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
-<img src="https://img.shields.io/badge/Born2Code-FFFFFF?style=flat-square&logo=42&logoColor=white&color=000000"/></a>
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Django&logoColor=white"/> <!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> --> <img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=C&logoColor=white&color=A0B0C0&fontColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-FFFFFF?style=flat-square&logo=C%2B%2B&logoColor=white&color=00599C"/>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeslee-v&theme=dracula&show_icons=true&layout=compact)](https://github.com/yeslee-v/github-readme-stats)
-
-[![yeslee's 42 stats](https://badge42.vercel.app/api/v2/cl1p1em7j006809m8pphrztte/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42) -->
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeslee-v&theme=dracula&show_icons=true)](https://github.com/yeslee-v/github-readme-stats)  -->
-
-
-
-
+<div align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=yeslee-v&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yeslee-v&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=yeslee-v&theme=algolia&hide_border=true&background=00000000">
+</div>
