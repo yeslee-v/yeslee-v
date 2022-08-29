@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Yeshin%20Lee%20👋&fontSize=30" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Welcome%20to%20my%20Github%20🥦&fontSize=25" width="100%" />
 
 <div align="center">
 
