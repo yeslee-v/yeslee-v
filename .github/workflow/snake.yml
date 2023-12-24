@@ -34,7 +34,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
-          branch: master
+          branch: 1-create-github-contribution-grid-snake
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
