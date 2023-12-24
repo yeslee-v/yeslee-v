@@ -33,7 +33,7 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.SNAKE_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: 1-create-github-contribution-grid-snake
           force: true
 
@@ -42,4 +42,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
