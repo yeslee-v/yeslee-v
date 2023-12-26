@@ -27,4 +27,4 @@
 
 [![@yeslee's Holopin board](https://holopin.me/yeslee)](https://holopin.io/@yeslee)
 
-![Snake animation](https://github.com/yeslee-v/yeslee-v/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yeslee-v/yeslee-v/blob/output/ocean.gif)
