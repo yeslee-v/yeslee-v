@@ -12,7 +12,7 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yeslee-v&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=yeslee-v&theme=algolia&hide_border=true&background=00000000"> -->
 
-<img width="750" alt="personal-information-overview" src="https://github.com/user-attachments/assets/36347ccd-c254-4445-bff6-65de3859eaae">
+<img width="600" alt="personal-information-overview" src="https://github.com/user-attachments/assets/36347ccd-c254-4445-bff6-65de3859eaae">
 
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
