@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeslee-v%2Fhit-counter&count_bg=%232E74FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeslee-v%2Fhit-counter&count_bg=%232E74FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeslee5004@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yeslee-v)
@@ -12,9 +12,9 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yeslee-v&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=yeslee-v&theme=algolia&hide_border=true&background=00000000"> -->
   
-<img width="600" alt="Screenshot 2024-08-09 at 14 02 52" src="https://github.com/user-attachments/assets/bcde831d-90a7-453f-82b2-3178777b5593">
+<!--<img width="600" alt="Screenshot 2024-08-09 at 14 02 52" src="https://github.com/user-attachments/assets/bcde831d-90a7-453f-82b2-3178777b5593">
 
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white")
