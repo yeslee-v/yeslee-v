@@ -11,77 +11,35 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.96%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 136.7 kB Used in GitHub's Storage 
- > 
-> 🏆 8 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 40 Private Repositories 
- > 
-**I'm a Night 🦉** 
+**저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 Morning                1168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-🌆 Daytime                3480 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
-🌃 Evening                4311 commits        ███████████░░░░░░░░░░░░░░   45.87 % 
-🌙 Night                  439 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1959 commits        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Tuesday                  1181 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Wednesday                1314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Thursday                 1169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Friday                   953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Saturday                 1308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Sunday                   1514 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+🌞 아침                     1168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+🌆 낮　                     3480 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
+🌃 저녁                     4312 commits        ███████████░░░░░░░░░░░░░░   45.88 % 
+🌙 밤　                     439 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
 ```text
-🕑︎ Time Zone: Asia/Seoul
+🕑︎ Timezone: Asia/Seoul
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+💬 프로그래밍 언어들: 
+이번 주에 활동은 없어요.
 
-🔥 Editors: 
-No Activity Tracked This Week
+🔥 에디터들: 
+이번 주에 활동은 없어요.
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+💻 운영 체제들: 
+이번 주에 활동은 없어요.
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/yeslee-v/yeslee-v/main/assets/bar_graph.png)
-
-
- Last Updated on 18/01/2026 13:46:19 UTC
+ Last Updated on 18/01/2026 13:55:44 UTC
 <!--END_SECTION:waka-->
 
 <!--  <img src ="https://github-readme-stats.vercel.app/api?username=yeslee-v&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=00000000&hide_rank=true">
