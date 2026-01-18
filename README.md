@@ -8,6 +8,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yeslee-v)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeshinlee/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--  <img src ="https://github-readme-stats.vercel.app/api?username=yeslee-v&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yeslee-v&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=yeslee-v&theme=algolia&hide_border=true&background=00000000"> -->
