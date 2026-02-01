@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeshinlee/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.96%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
@@ -39,7 +37,7 @@
 ```
 
 
- Last Updated on 31/01/2026 19:00:15 UTC
+ Last Updated on 01/02/2026 19:04:32 UTC
 <!--END_SECTION:waka-->
 
 <!--  <img src ="https://github-readme-stats.vercel.app/api?username=yeslee-v&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=00000000&hide_rank=true">
