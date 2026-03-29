@@ -16,10 +16,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-🌆 낮　                     3481 commits        █████████░░░░░░░░░░░░░░░░   36.87 % 
-🌃 저녁                     4337 commits        ███████████░░░░░░░░░░░░░░   45.93 % 
-🌙 밤　                     439 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+🌞 아침                     1186 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+🌆 낮　                     3481 commits        █████████░░░░░░░░░░░░░░░░   36.82 % 
+🌃 저녁                     4349 commits        ████████████░░░░░░░░░░░░░   46.00 % 
+🌙 밤　                     439 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 
 
@@ -39,7 +39,7 @@
 ```
 
 
- Last Updated on 28/03/2026 19:10:42 UTC
+ Last Updated on 29/03/2026 19:12:49 UTC
 <!--END_SECTION:waka-->
 
 <!--  <img src ="https://github-readme-stats.vercel.app/api?username=yeslee-v&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=00000000&hide_rank=true">
